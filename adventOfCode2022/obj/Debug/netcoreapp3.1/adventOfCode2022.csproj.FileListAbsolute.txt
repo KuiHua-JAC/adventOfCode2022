@@ -1,0 +1,14 @@
+/Users/kuihuawang/Desktop/adventOfCode2022/adventOfCode2022/bin/Debug/netcoreapp3.1/adventOfCode2022
+/Users/kuihuawang/Desktop/adventOfCode2022/adventOfCode2022/bin/Debug/netcoreapp3.1/adventOfCode2022.deps.json
+/Users/kuihuawang/Desktop/adventOfCode2022/adventOfCode2022/bin/Debug/netcoreapp3.1/adventOfCode2022.runtimeconfig.json
+/Users/kuihuawang/Desktop/adventOfCode2022/adventOfCode2022/bin/Debug/netcoreapp3.1/adventOfCode2022.runtimeconfig.dev.json
+/Users/kuihuawang/Desktop/adventOfCode2022/adventOfCode2022/bin/Debug/netcoreapp3.1/adventOfCode2022.dll
+/Users/kuihuawang/Desktop/adventOfCode2022/adventOfCode2022/bin/Debug/netcoreapp3.1/adventOfCode2022.pdb
+/Users/kuihuawang/Desktop/adventOfCode2022/adventOfCode2022/obj/Debug/netcoreapp3.1/adventOfCode2022.csproj.AssemblyReference.cache
+/Users/kuihuawang/Desktop/adventOfCode2022/adventOfCode2022/obj/Debug/netcoreapp3.1/adventOfCode2022.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kuihuawang/Desktop/adventOfCode2022/adventOfCode2022/obj/Debug/netcoreapp3.1/adventOfCode2022.AssemblyInfoInputs.cache
+/Users/kuihuawang/Desktop/adventOfCode2022/adventOfCode2022/obj/Debug/netcoreapp3.1/adventOfCode2022.AssemblyInfo.cs
+/Users/kuihuawang/Desktop/adventOfCode2022/adventOfCode2022/obj/Debug/netcoreapp3.1/adventOfCode2022.csproj.CoreCompileInputs.cache
+/Users/kuihuawang/Desktop/adventOfCode2022/adventOfCode2022/obj/Debug/netcoreapp3.1/adventOfCode2022.dll
+/Users/kuihuawang/Desktop/adventOfCode2022/adventOfCode2022/obj/Debug/netcoreapp3.1/adventOfCode2022.pdb
+/Users/kuihuawang/Desktop/adventOfCode2022/adventOfCode2022/obj/Debug/netcoreapp3.1/adventOfCode2022.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0WkETOukP6Njwxe4wzKqz6y5c3f6zRnF7IT1EvQu38FIsQVc0QJS+xS4yOSpdoQ8/csujcM3eueJrI0rKleUqw==",
+  "success": true,
+  "projectFilePath": "/Users/kuihuawang/Desktop/adventOfCode2022/adventOfCode2022/adventOfCode2022.csproj",
+  "expectedPackageFiles": [
+    "/Users/kuihuawang/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/kuihuawang/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512",
+    "/Users/kuihuawang/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
